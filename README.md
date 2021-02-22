@@ -1,5 +1,6 @@
 # 3D_House-Model
 
+<<<<<<< HEAD
 
 ## Table of contents
 
@@ -65,3 +66,5 @@ This project was created with:
 *‘Good to have features’ which incorporate house area(m²), number of rooms, surrounding features etc.
 *Rapid return of search results   
 
+=======
+>>>>>>> 6c5054634d036fe121abd0a221e1f55669e59dad
