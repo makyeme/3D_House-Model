@@ -9,11 +9,13 @@
 * [Status](#status)
 
 
+
 ## General Information
 
-In this project,  geospatial data provided by an industrial player was used to develop a 3D Model of a house. 
-starting from a given home address. 
+In this project,  geospatial data provided by an industrial player was used to develop a 3D Model of a house.
+Starting from a given home address. 
 This information will be will be crucial in aiding the company to launch a new branch in the insurance business.
+
 
 
 ## Technology
@@ -34,34 +36,36 @@ This project was created with:
 * gdal library version: 3.0.2
 
 
+
 ## Setup
 
-### Rasterio & Gdal
+#### Rasterio & Gdal
 * Open, read, write and export Geotiff images (DSM, DTM & CHM)
 * Geo-transform geotiff images 
 * Obtain CHM from the DSM & DTM 
 
-### Numpy
+#### Numpy
 * Manipulate image arrays to obtain image bounding boxes & plotting
 
-### Requests & Json
+#### Requests & Json
 * Extract coordinate & polygon data of input home address from relevant APIs
 
-### Geopandas
+#### Geopandas
 * Import, open and manipulate shapefiles (polygons)
 
-### Matplotlib
+#### Matplotlib
 * Plot 2D and 3D graphs
 * Generate an interactive back end interface to visualize, rotate and manipulate graphs
 
 
+
 ## Status
 
-### Realised 
+#### Realised 
 * Obtained the ‘Must have version’: A 3D model of a house with only an input home address
 * Better visualization 
 
-### Pending
+#### Pending
 * ‘Good to have features’ which incorporate house area(m²), number of rooms, surrounding features etc.
 * Rapid return of search results   
 
