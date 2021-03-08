@@ -2,7 +2,7 @@
 
 
 ## Table of contents
-* [GeneralInformation](#generalinformation)
+* [GeneralInformation](#general information)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Status](#status)
@@ -13,7 +13,7 @@
 
 In this project,  geospatial data provided by an industrial player was used to develop a 3D Model of a house.
 The 3D model is generated and plotted by inputting a simple home address. 
-This information will be crucial in aiding the company in the launch of its new branch in the insurance business.
+The output of this project will be crucial in aiding the company launch its new branch in the insurance business.
 
 
 
