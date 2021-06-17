@@ -42,7 +42,7 @@ This project was created with:
 
 ![Optional Text](https://github.com/makyeme/3D_House_Model/blob/main/3D_images/CHM.png)
 
-Visualization of the Canopy Height Model-generating process
+Visualization of the Canopy Height Model-generation process
 
 
 #### 1. Exploring the raster Images
